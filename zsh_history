@@ -1,0 +1,1669 @@
+: 1655092479:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1655092485:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1655092522:0;nvim .zshrc
+: 1655092540:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1655092563:0;yay -S find
+: 1655092571:0;paru -S find
+: 1655092580:0;yay -S bat
+: 1655092585:0;yay -S ripgrep
+: 1655092591:0;paru -S fd
+: 1655092599:0;paru -S fzf
+: 1655092603:0;fzf
+: 1655092624:0;git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+: 1655092634:0;nvim .zshrc
+: 1655092645:0;source .zshrc
+: 1655092806:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1655092821:0;cd ä¸ƒ«è½½
+: 1655092825:0;ls
+: 1655092845:0;sudo debtap -q  'Steam _linux_x64_v2.7.2.deb'
+: 1655092854:0;sudo debtap -u  'Steam _linux_x64_v2.7.2.deb'
+: 1655092930:0;paru -S motrix
+: 1655092966:0;git clone https://gitclone.com/github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1655092978:0;source .zshrc
+: 1655092988:0;nvim .zshrc
+: 1655093266:0;sudo debtap -q  'Steam _linux_x64_v2.7.2.deb'
+: 1655093316:0;x konsole-master.zip
+: 1655093319:0;cd konsole-master
+: 1655093336:0;cp Dracula.colorscheme ~/.local/share/konsole
+: 1655093354:0;sudo pacman -U steam++-2.7.2-1-x86_64.pkg.tar.zst
+: 1655093372:0;nvim .zshrc
+: 1655093374:0;cd
+: 1655093375:0;nvim .zshrc
+: 1655093385:0;source .zshrc
+: 1655093394:0;cd ä¸ƒ«è½½
+: 1655093403:0;deb Motrix_1.6.11_amd64.deb
+: 1655093534:0;au motrix-1.6.11-1-x86_64.pkg.tar.zst
+: 1655093671:0;sudo chmod a+w /etc/hosts
+: 1655093725:0;sudo chmod a+r /etc/hosts\
+
+: 1655093738:0;sudo setcap cap_net_bind_service=+eip /usr/share/Steam++/Steam++
+: 1655093762:0;sudo chmod a+w /etc/hosts\
+
+: 1655094034:0;yay -S electron-wechat
+: 1655094051:0;yay -S icalingua++
+: 1655094067:0;yay -S yesplaymusic
+: 1655094111:0;sudo nvim /etc/hosts
+: 1655094177:0;yay -S yesplaymusic
+: 1655094302:0;yay -S flameshot
+: 1655094312:0;yay -S clash clash-for-windows-bin
+: 1655094331:0;yay -S ttf-sarasa-gothic
+: 1655094510:0;git clone https://aur.archlinux.org/snapd.git
+: 1655094527:0;yay -S clash clash-for-windows-bin
+: 1655094541:0;cd snapd
+: 1655094578:0;makepkg -si
+: 1655094837:0;sudo ln -s /var/lib/snapd/snap /snap
+: 1655094856:0;sudo snap install snapd-store
+: 1655094859:0;sudo snap install snap-store
+: 1655094869:0;sudo snap install wonderwall
+: 1655094882:0;sudo ln -s /var/lib/snapd/snap /snap
+: 1655094886:0;sudo snap install wonderwall
+: 1655095027:0;\
+\
+sudo snap install snap-store\
+\
+
+: 1655095153:0;sudo pacman -S git make cmake gcc gettext extra-cmake-modules qt5-tools qt5-x11extras kcrash kglobalaccel kde-dev-utils kio knotifications kinit kwin
+: 1655095167:0;git clone https://github.com/a-parhom/LightlyShaders
+: 1655095378:0;cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX=/usr && make && sudo make install && (kwin_x11 --replace &)
+: 1655101663:0;cd /home/john/.local/share/plasma/desktoptheme/Layan
+: 1655101692:0;paru -S arc-gtk-theme
+: 1655101701:0;paru -S arc-icon-theme
+: 1655101751:0;paru -S arc-gtk-theme
+: 1655101779:0;cd widgets
+: 1655101780:0;e
+: 1655101785:0;y exa
+: 1655101791:0;e
+: 1655101793:0;cd ..
+: 1655101797:0;exa
+: 1655101803:0;cd widgets
+: 1655101809:0;ls
+: 1655102018:0;yay -S clash clash-for-windows-bin
+: 1655102062:0;x Layan-kde-master
+: 1655102065:0;x Layan-kde-master.zip
+: 1655102069:0;cd Layan-kde-master
+: 1655102074:0;./install.sh
+: 1655102087:0;cd ..
+: 1655102096:0;x Layan-kde-master\(1\).zip
+: 1655102100:0;cd Layan-kde-master\(1\)
+: 1655102101:0;e
+: 1655102103:0;cd Layan-kde-master
+: 1655102106:0;./install.sh
+: 1655102197:0;reboot
+: 1655102633:0;wall
+: 1655102755:0;nvim .zshrc
+: 1655102764:0;source .zshrc
+: 1655102767:0;wall
+: 1655102805:0;mkdir åƒ»¾çƒ©ƒ§/Wallpaper
+: 1655102807:0;wall
+: 1655103338:0;yay -S latte-dock
+: 1655103660:0;nano ~/.pam_environment
+: 1655103671:0;yay -S fcitx5-im
+: 1655103679:0;nano ~/.pam_environment
+: 1655103689:0;yay -S fcitx5-rime
+: 1655103695:0;yay -S rime-cloverpinyin
+: 1655103701:0;yay -S base-devel
+: 1655103711:0;nano ~/.local/share/fcitx5/rime/default.custom.yaml
+: 1655103725:0;yay -S fcitx5-pinyin-zhwiki-rime
+: 1655103730:0;yay -S fcitx5-material-color
+: 1655104107:0;x WhiteSur-cursors-master.zip
+: 1655104110:0;cd WhiteSur-cursors-master
+: 1655104115:0;./install.sh
+: 1655104214:0;paru -S twea
+: 1655104217:0;paru -S tweak
+: 1655104251:0;x apple_cursor-main.zip
+: 1655104253:0;cd apple_cursor-main
+: 1655104265:0;make builder
+: 1655104288:0;mv macOSBigSur ~/.icons/
+: 1655104291:0;cd ..
+: 1655104292:0;mv macOSBigSur ~/.icons/
+: 1655104478:0;yay -S yesplaymusic
+: 1655104506:0;yay -S feeluown
+: 1655104519:0;feeluown
+: 1655104543:0;yay -S yesplaymusic
+: 1655104770:0;y  fastGithub 
+: 1655104783:0;y  fastgithub-bin 
+: 1655105120:0;y typora
+: 1655105336:0;deb sogoupinyin_4.0.1.2123_amd64.deb
+: 1655105609:0;y yesplaymusic
+: 1655105772:0;deb yesplaymusic_0.4.5_amd64.deb
+: 1655105814:0;y google-chrome
+: 1655105952:0;yay -S deepin-wine-wechat
+: 1655106071:0;sudo pacman -Syu virtualbox linux515-virtualbox-host-modules
+: 1655106087:0;paru -S virtualbox
+: 1655106097:0;paru -S linux515-virtualbox-host-modules
+: 1655106108:0;vboxmanage --version
+: 1655106113:0;yay virtualbox-ext-oracle
+: 1655106161:0;cd autojump
+: 1655106170:0;./install.py
+: 1655106175:0;cd ..
+: 1655106179:0;rm -rf autojump
+: 1655106186:0;nvim .zsh
+: 1655106191:0;nvim .zshrc
+: 1655106246:0;source .zshrc
+: 1655106249:0;j
+: 1655106269:0;yay -S visual-studio-code-bin
+: 1655106358:0;au yesplaymusic-0.4.5-1-x86_64.pkg.tar.zst
+: 1655106370:0;deb yesplaymusic-0.4.5-1-x86_64.pkg.tar.zst
+: 1655106384:0;deb google-chrome-stable_current_amd64.deb
+: 1655106554:0;cd Downloads
+: 1655106555:0;e
+: 1655106557:0;ls
+: 1655106568:0;exa
+: 1655106580:0;x plasma-applet-eventcalendar-master.zip
+: 1655106587:0;x plasma-simpleMonitor-master.zip
+: 1655106623:0;cd plasma-applet-eventcalendar-master
+: 1655106628:0;./install
+: 1655106634:0;cd ..
+: 1655106638:0;ls
+: 1655106652:0;cd plasma-simpleMonitor-master
+: 1655106661:0;./build.sh
+: 1655106673:0;au google-chrome-stable-102.0.5005.115-1-x86_64.pkg.tar.zst
+: 1655106962:0;./launch.sh
+: 1655106981:0;cd ..
+: 1655106986:0;exa
+: 1655106998:0;cd apptitle-plasmoid-master
+: 1655107002:0;e
+: 1655107089:0;y  translate-shell\
+
+: 1655107096:0;yay -S  translate-shell\
+
+: 1655107143:0;./create_archive.sh
+: 1655107190:0;x applet-window-title-master.zip
+: 1655107194:0;cd applet-window-title-master
+: 1655107200:0;sudo plasmapkg2 -i .
+: 1655107327:0;reboot
+: 1655107515:0;mv 0-Desktop ~
+: 1655107519:0;sudo mv 0-Desktop ~
+: 1655107542:0;cd /run/user/1000/kio-fuse-kgUOyQ/trash
+: 1655107641:0;y applet-window-title
+: 1655107657:0;y applet-window-B
+: 1655107842:0;sudo rm -r 0-Desktop/
+: 1655107923:0;cd awesome-widgets-development
+: 1655107935:0;./create_archive.sh
+: 1655108018:0;cd ....
+: 1655108029:0;cd Downloads
+: 1655108038:0;au sogoupinyin-4.0.1.2123-1-x86_64.pkg.tar.zst
+: 1655108237:0;git clone https://github.com/tonyfettes/fcitx5-nord.git\
+mkdir -p ~/.local/share/fcitx5/themes/\
+cd fcitx5-nord\
+cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
+: 1655108251:0;nvim ~/.config/fcitx5/conf/classicui.conf
+: 1655108272:0;fcitx5 -r
+: 1655108314:0;git clone https://github.com/ayamir/fcitx5-gruvbox\
+mkdir -p ~/.local/share/fcitx5/themes/\
+cd fcitx5-gruvbox\
+cp -r Gruvbox-Light/ Gruvbox-Dark ~/.local/share/fcitx5/themes/
+: 1655108329:0;nvim ~/.config/fcitx5/conf/classicui.conf
+: 1655108495:0;y panon
+: 1655108501:0;f
+: 1655108548:0;x ncldcbhpeplkfijdhnoepdgdnmjkckij.zip
+: 1655108552:0;cd ncldcbhpeplkfijdhnoepdgdnmjkckij
+: 1655109472:0;cd ..
+: 1655109707:0;y libreoffice
+: 1655109736:0;sudo pacman -S qt5-websockets \\
+    python-docopt python-numpy python-pyaudio python-cffi python-websockets 
+: 1655109751:0;rm  /var/lib/pacman/db.lck
+: 1655109752:0;sudo rm  /var/lib/pacman/db.lck
+: 1655109753:0;p
+: 1655109776:0;git clone https://github.com/rbn42/panon.git\
+cd panon\
+\
+# Download SoundCard and hsluv-glsl\
+git submodule update --init\
+\
+# Build translations (optional)\
+mkdir build\
+cd build\
+cmake ../translations\
+make install DESTDIR=../plasmoid/contents/locale\
+cd ..\
+\
+# To install\
+kpackagetool5 -t Plasma/Applet --install plasmoid\
+\
+# To upgrade\
+kpackagetool5 -t Plasma/Applet --upgrade plasmoid
+: 1655110683:0;cd applet-window-title-master
+: 1655110688:0;plasmapkg2 -i 
+: 1655110693:0;cd ..
+: 1655110695:0;plasmapkg2 -i 
+: 1655110711:0;plasmapkg2 -i .
+: 1655110715:0;cd applet-window-title-master
+: 1655110716:0;plasmapkg2 -i .
+: 1655110764:0;reboot
+: 1655110973:0;cd awesome-widgets-development
+: 1655110982:0;cd ..
+: 1655110986:0;cd plasma-simpleMonitor-master
+: 1655110992:0;./build.sh
+: 1655111046:0;cd awesome-widgets-development
+: 1655111053:0;./create_archive.sh
+: 1655111151:0;yay -S albert
+: 1655111297:0;y utool
+: 1655111306:0;y pacmac
+: 1655111309:0;y pamac
+: 1655111325:0;y utools
+: 1655111753:0;y awesome-widget 
+: 1655111766:0;y plasma5-applet-awesome-widgets  
+: 1655124595:0;reboot
+: 1655124709:0;y plasma5-applets-eventcalendar   
+: 1655212249:0;x mfnkflidjnladnkldfonnaicljppahpg.zip
+: 1655212251:0;cd mfnkflidjnladnkldfonnaicljppahpg
+: 1655212347:0;x 9787517036166_2_10.rar
+: 1655212354:0;y unrar
+: 1655212361:0;x 9787517036166_2_10.rar
+: 1655212371:0;mv 9787517036166_2_10 ~/Documents
+: 1655212382:0;cd ~/Documents
+: 1655212401:0;mv 9787517036166_2_10 èƒ«±è¯­åƒ°¬åƒªƒ»1-2
+: 1655212408:0;cd èƒ«±è¯­åƒ°¬åƒªƒ»1-2
+: 1655212412:0;cd éƒ¸¶æ®µï¼ƒ¨1ï¼ƒ©
+: 1655212436:0;y qmmp
+: 1655212553:0;reflector --country China --age 12 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
+: 1655212666:0;y  Cmus
+: 1655212678:0;y  cmus
+: 1655212691:0;cd dowc
+: 1655212701:0;cd Documents
+: 1655212702:0;e
+: 1655212703:0;cd èƒ«±è¯­åƒ°¬åƒªƒ»1-2
+: 1655212706:0;cd éƒ¸¶æ®µï¼ƒ¨1ï¼ƒ©
+: 1655212714:0;cmus 001.mp3
+: 1655212730:0;cmus
+: 1655212737:0;cd ..
+: 1655212763:0;cmus
+: 1655212995:0;y quota
+: 1655213055:0;sudo pacman -Syyu
+: 1655213397:0;paru -Syyu
+: 1655213417:0;rm -r /usr/bin/motrix \
+
+: 1655213418:0;sudo rm -r /usr/bin/motrix \
+
+: 1655213422:0;paru -Syyu
+: 1655213728:0;y smartctl
+: 1655213738:0;sudo smartctl -a
+: 1655213760:0;cd /sys/class/power_supply/
+: 1655213762:0;cd
+: 1655213874:0;sudo pacman -S quato
+: 1655213886:0;sudo pacman -S quota
+: 1655213945:0;y quota-tools
+: 1655214603:0;cd ..
+: 1655214607:0;rm -r build
+: 1655214615:0;cd Downloads
+: 1655214620:0;rm -r *
+: 1655214624:0;e
+: 1655214636:0;au sogoupinyin-4.0.1.2123-1-x86_64.pkg.tar.zst
+: 1655214651:0;rm -r sogoupinyin-4.0.1.2123-1-x86_64.pkg.tar.zst
+: 1655214669:0;git clone https://gitclone.com/github.com/arcan1s/awesome-widgets
+: 1655214693:0;git clone https://github.com/arcan1s/awesome-widgets
+: 1655214701:0;rm -r awesome-widgets
+: 1655214703:0;git clone https://github.com/arcan1s/awesome-widgets
+: 1655214710:0;cd awesome-widgets
+: 1655215106:0;y extra-cmake-modules
+: 1655215115:0;y python
+: 1655215129:0;y catalyst 
+: 1655215147:0;y hddtemp
+: 1655215152:0;y mpd
+: 1655215170:0;y nvidia-utils
+: 1655215219:0;y smartmontools
+: 1655215232:0;y plasma5-applet-awesome-widgets
+: 1655215505:0;sudo pacman -S kcm-colorful-git
+: 1655215513:0;yay -S kcm-colorful-git # or any other aur helper
+: 1655215521:0;git clone --recursive https://github.com/IsoaSFlus/kcm-colorful.git
+: 1655215534:0;cd kcm-colorful
+: 1655215541:0;make build
+: 1655215546:0;mkdir build
+: 1655215548:0;make build
+: 1655215552:0;cd ./build
+: 1655215556:0;cmake ./
+: 1655215562:0;cmake ../
+: 1655215568:0;make
+: 1655215592:0;sudo make install
+: 1655215636:0;sudo pacman -S kdecoration qt5-declarative qt5-x11extras kcoreaddons kguiaddons kconfigwidgets kwindowsystem fftw cmake extra-cmake-modules\
+
+: 1655215648:0;cd
+: 1655215650:0;git clone https://github.com/alex47/BreezeBlurred\
+cd BreezeBlurred\
+mkdir build\
+cd build\
+cmake .. -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release -DKDE_INSTALL_LIBDIR=lib -DBUILD_TESTING=OFF -DKDE_INSTALL_USE_QT_SYS_PATHS=ON\
+sudo make install\
+kwin_x11 --replace &
+: 1655215875:0;reboot
+: 1655216009:0;cd .local/share/Steam++
+: 1655216052:0;mv SteamTools.Certificate.cer SteamTools.Certificate.pem
+: 1655216229:0;y python-docopt python-numpy python-pyaudio python-cffi python-websockets
+: 1655216410:0;y wireless_tools
+: 1655216602:0;y proxychains npm i -g gitbook-cli\
+
+: 1655216608:0;y gitbook-cli\
+
+: 1655216619:0;$ yay -S visual-studio-code-bin\
+
+: 1655216639:0;yay -S ttf-fira-code
+: 1655216668:0;yay -S trash-cli
+: 1655216682:0;nvim .zshrc
+: 1655216716:0;trans
+: 1655216722:0;trans apple
+: 1655216921:0;y translator
+: 1655217247:0;cd ~/nvim/site/autoload/plug.vim
+: 1655217349:0;sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+: 1655217532:0;y translator
+: 1655217538:0;yay -S clash clash-for-windows-bin\
+
+: 1655217601:0;nvim /etc/hosts
+: 1655217680:0;y fashfetch
+: 1655217686:0;y fastfetch
+: 1655217692:0;fastfetch
+: 1655217738:0;y uwufetch
+: 1655217988:0;y switchhosts
+: 1655218119:0;y bilibili-bin
+: 1655218224:0;sudo nvim /etc/hosts
+: 1655218253:0;y bilibili-bin
+: 1655218567:0;y switchhosts
+: 1655218575:0;y npm
+: 1655218582:0;y switchhosts
+: 1655218720:0;y mails
+: 1655218734:0;y mailx
+: 1655218756:0;mailx
+: 1655218987:0;y mail
+: 1655219102:0;y tmux
+: 1655219137:0;y nylas-mail
+: 1655219146:0;y nylas-mail-bin
+: 1655219172:0;y nylas-mail-git
+: 1655219283:0;sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+: 1655219334:0;git clone https://gitee.com/markchieo/nvim
+: 1655219390:0;cd nvim
+: 1655219396:0;e
+: 1655219405:0;chmod +x install.sh
+: 1655219406:0;e
+: 1655219408:0;./install.sh
+: 1655219422:0;cd
+: 1655219437:0;nvim ~/.config/nvim/init.vim
+: 1655219740:0;git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+: 1655219758:0;git clone https://gitclone.com/github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+: 1655219771:0;nvim ~/.config/nvim/init.vim
+: 1655219847:0;code ~/.config/nvim/init.vim
+: 1655219906:0;nvim ~/.config/nvim/init.vim
+: 1655298603:0;cd nvim
+: 1655298604:0;e
+: 1655298609:0;nvim init.vim
+: 1655298631:0;cp init.vim ~/.config/nvim
+: 1655298643:0;n ~/.config/nvim/init.vim
+: 1655298933:0;y qdbus
+: 1655299094:0;y simple-pager-virtual-desktop
+: 1655299192:0;y plasma5-applets-panon
+: 1655299308:0;git clone --branch main --single-branch https://gitlab.com/hkanjal/kdeplasma-addons.git\
+cd kdeplasma-addons\
+chmod u+x install.sh\
+./install.sh\
+
+: 1655299338:0;git clone --branch main --single-branch https://gitclone.com/gitlab.com/hkanjal/kdeplasma-addons.git
+: 1655299345:0;git clone --branch main --single-branch https://gitlab.com/hkanjal/kdeplasma-addons.git
+: 1655299393:0;sudo pacman -S qt5-websockets \\
+    python-docopt python-numpy python-pyaudio python-cffi python-websockets 
+: 1655299410:0;git clone https://github.com/rbn42/panon.git
+: 1655299417:0;rm -r panon
+: 1655299418:0;git clone https://github.com/rbn42/panon.git
+: 1655299431:0;git clone https://gitclone.com/github.com/rbn42/panon.git
+: 1655299457:0;git clone https://github.com/rbn42/panon.git
+: 1655299461:0;rm -r panon
+: 1655299462:0;git clone https://github.com/rbn42/panon.git
+: 1655299471:0;git clone --branch main --single-branch https://gitlab.com/hkanjal/kdeplasma-addons.git
+: 1655299600:0;git clone https://github.com/rbn42/panon.git
+: 1655299606:0;git clone --branch main --single-branch https://gitlab.com/hkanjal/kdeplasma-addons.git
+: 1655299629:0;y pamac
+: 1655299931:0;y listarty
+: 1655299944:0;git clone https://github.com/rbn42/panon.git
+: 1655299957:0;cd kdeplasma-addons
+: 1655299969:0;chmod u+x install.sh
+: 1655299971:0;./install.sh
+: 1655299992:0;cd panon
+: 1655300006:0;git submodule update --init
+: 1655300056:0;y ulauncher
+: 1655300145:0;y thunderbird\
+
+: 1655300165:0;y jellyfin 
+: 1655300195:0;y listen1\
+
+: 1655300253:0;make build
+: 1655300270:0;mkdir build
+: 1655300272:0;cd build
+: 1655300282:0;cmake ../translations
+: 1655300293:0;make install DESTDIR=../plasmoid/contents/locale
+: 1655300296:0;cd ..
+: 1655300302:0;kpackagetool5 -t Plasma/Applet --install plasmoid
+: 1655300321:0;rm -r /home/john/.local/share/plasma/plasmoids/panon
+: 1655300323:0;kpackagetool5 -t Plasma/Applet --install plasmoid
+: 1655300592:0;y nutstore
+: 1655300622:0;nutstore
+: 1655300649:0;n ~/.config/nvim/init.vim
+: 1655301110:0;y qml-module-qt-websockets
+: 1655301168:0;y plasma5-applets-uptime-widget-git 
+: 1655301216:0;sudo tar -xvf ~/Downloads/Clash.for.Windows-0.19.5-x64-linux.tar.gz -C /usr/local
+: 1655301239:0;sudo tar -xvf ~/Downloads/Clash.for.Windows-0.19.20-arm64-linux.tar.gz.crdownload -C /usr/local
+: 1655301243:0;x Clash.for.Windows-0.19.20-arm64-linux.tar.gz
+: 1655301272:0;cp -r Clash   /usr/local
+: 1655301282:0;sudo cp -r Clash\ for\ Windows-0.19.20-arm64-linux   /usr/local
+: 1655301321:0;mkdir  /usr/local/clash
+: 1655301322:0;sudo mkdir  /usr/local/clash
+: 1655301337:0;cd /usr/local/Clash\ for\ Windows-0.19.20-arm64-linux
+: 1655301338:0;e
+: 1655301356:0;cp * /usr/local/clash
+: 1655301358:0;sudo cp * /usr/local/clash
+: 1655301363:0;sudo cp -r * /usr/local/clash
+: 1655301378:0;cd ../clash
+: 1655301379:0;/usr/local/clash/cfw
+: 1655301512:0;nvim ~/.config/nvim/init.vim
+: 1655301838:0;cd .
+: 1655301840:0;cd ..
+: 1655301854:0;sudo rm -r clash Clash\ for\ Windows-0.19.20-arm64-linux 
+: 1655302210:0;nvim ~/.config/nvim/init.vim
+: 1655302502:0;git clone https://github.com/psifidotos/applet-latte-separator/
+: 1655302542:0;git clone https://gitee.com/markchieo/zsh
+: 1655302579:0;cd Downloads
+: 1655302581:0;e
+: 1655302584:0;x zsh-master.zip
+: 1655302587:0;cd zsh-master
+: 1655302590:0;e
+: 1655302604:0;mv cloud.zsh-theme ~/.oh-my-zsh/themes
+: 1655302612:0;mv bash.zsh-theme ~/.oh-my-zsh/themes
+: 1655302617:0;cd plugins
+: 1655302618:0;e
+: 1655302624:0;cd ......
+: 1655302626:0;cd
+: 1655302630:0;cd Downloads
+: 1655302635:0;rm -r zsh-master
+: 1655302637:0;rm -r zsh-master.zip
+: 1655302665:0;cd ~/.config/nvim/plugged
+: 1655302673:0;e ../
+: 1655302684:0;cd ../Pluginged
+: 1655302685:0;e
+: 1655302690:0;cd ../plugged
+: 1655302697:0;rm -r ../Pluginged
+: 1655302701:0;git clone https://github.com/scrooloose/nerdtree
+: 1655302714:0;git clone https://gitclone.com/github.com/scrooloose/nerdtree
+: 1655302748:0;git clone https://gitclone.com/github.com/vim-airline/vim-airline
+: 1655302797:0;git clone https://github.com/vim-airline/vim-airline-themes
+: 1655302806:0;git clone https://gitclone.com/github.com/vim-airline/vim-airline-themes
+: 1655302829:0;git clone https://gitclone.com/github.com/majutsushi/tagbar
+: 1655302836:0;cd tagbar
+: 1655302839:0;e
+: 1655302841:0;cd ..
+: 1655302846:0;rm -r tagbar
+: 1655302849:0;git clone https://gitclone.com/github.com/majutsushi/tagbar
+: 1655303029:0;git clone https://gitclone.com/github.com/mattn/emmet-vim\
+
+: 1655303054:0;git clone https://gitclone.comgithub.com/honza/vim-snippets\
+
+: 1655303059:0;git clone https://gitclone.com/github.com/honza/vim-snippets\
+
+: 1655303098:0;y nethack
+: 1655303105:0;nethack
+: 1655303216:0;git clone https://gitclone.com/github.com/ryanoasis/vim-devicons\
+
+: 1655303295:0;y rufetch
+: 1655303318:0;nvim ~/.config/nvim/init.vim
+: 1655303483:0;y frankenwm
+: 1655303506:0;sudo pacman -S cataclysm-dda
+: 1655303515:0;sudo pacman -S cataclysm-dda-tiles
+: 1655303696:0;cd Downloads
+: 1655303697:0;e
+: 1655303699:0;x monaco-nerd-fonts-master.zip
+: 1655303701:0;cd monaco-nerd-fonts-master
+: 1655303703:0;e
+: 1655303705:0;cd monaco-nerd-fonts-master
+: 1655303706:0;e
+: 1655303710:0;cd fonts
+: 1655303711:0;e
+: 1655303732:0;cp Monaco\ Nerd\ Font\ Complete\ Mono.otf /usr/share/fonts
+: 1655303734:0;sudo cp Monaco\ Nerd\ Font\ Complete\ Mono.otf /usr/share/fonts
+: 1655303744:0;sudo fc-cache -fv
+: 1655303772:0;y ttf-monaco
+: 1655303800:0;y ttf-nerd-fonts-hack-complete-git
+: 1655303839:0;rm -r ä¸ƒ«è½½
+: 1655303842:0;e
+: 1655303845:0;ls
+: 1655303852:0;rm -r fcitx5-nord
+: 1655303861:0;rm -r panon
+: 1655303871:0;nvim .zshrc
+: 1655303908:0;source .zshrc
+: 1655303938:0;cd Downloads
+: 1655303939:0;e
+: 1655303943:0;cd monaco-nerd-fonts-master
+: 1655303946:0;e
+: 1655303948:0;cd fonts
+: 1655303949:0;e
+: 1655303968:0;cp Monaco\ Nerd\ Font\ Complete.otf /usr/share/fonts
+: 1655303969:0;sudo cp Monaco\ Nerd\ Font\ Complete.otf /usr/share/fonts
+: 1655303977:0;sudo fc-cache -fv
+: 1655304045:0;vim
+: 1655304099:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655304163:0;source .zshrc
+: 1655304169:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655304175:0;source .zshrc
+: 1655305344:0;f
+: 1655305372:0;fc-list | grep "monaco"
+: 1655305377:0;fc-list | grep "Monaco"
+: 1655305589:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305653:0;source .zshrc
+: 1655305659:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305677:0;source .zshrc
+: 1655305687:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305698:0;source .zshrc
+: 1655305706:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305756:0;source .zshrc
+: 1655305767:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305781:0;source .zshrc
+: 1655305784:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305823:0;source .zshrc
+: 1655305831:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305843:0;source .zshrc
+: 1655305856:0;nvim ~/.oh-my-zsh/themes/cloud.zsh-theme
+: 1655305867:0;source .zshrc
+: 1655305982:0;y ttf-fira-code
+: 1655305994:0;y ttf-nerd-font-fira-code
+: 1655306030:0;y nerd-fonts-droid-sans-mono
+: 1655306041:0;y ttf-fira-code
+: 1655306092:0;vim 
+: 1655306362:0;y gitfetch
+: 1655384635:0;nvim ~/.config/nvim/init.vim
+: 1655384849:0;paru -Syyu
+: 1655385011:0;cd Downloads
+: 1655385012:0;e
+: 1655385152:0;sudo mv /usr/local/Clash\ for\ Windows-0.19.5-x64-linux /usr/local/clash
+: 1655385195:0;sudo mv /usr/local/Clash\ for\ Windows-0.19.20-x64-linux /usr/local/clash
+: 1655385205:0;/usr/local/clash/cfw\
+
+: 1655385364:0;paru -Syyu
+: 1655385582:0;nvim .zshrc
+: 1655385593:0;source .zshrc
+: 1655385625:0;setproxy 
+: 1655385641:0;nvim .zshrc
+: 1655385673:0;source .zshrc
+: 1655385675:0;sy
+: 1655385678:0;uy
+: 1655385698:0;sudo vim ~/.local/share/applications/clash.desktop
+: 1655385907:0;y fwbackups
+: 1655385915:0;sy
+: 1655385916:0;y fwbackups
+: 1655385935:0;yay -S deepin-wine-wechat
+: 1655386001:0;y  rsync
+: 1655386017:0;rsync
+: 1655386116:0;nvim .zshrc
+: 1655386128:0;source .zshrc
+: 1655386498:0;cd Documents
+: 1655386498:0;e
+: 1655386500:0;cd code-folder
+: 1655386501:0;e
+: 1655386504:0;cd Python
+: 1655386505:0;e
+: 1655386515:0;py Demo2.py
+: 1655387512:0;y lib32-libxcomposite
+: 1655387528:0;e
+: 1655387617:0;y electron-wechat
+: 1655387621:0;sy
+: 1655387622:0;y electron-wechat
+: 1655387704:0;wall
+: 1655387709:0;y imgcat
+: 1655387724:0;sy
+: 1655387725:0;y imgcat
+: 1655387744:0;sy
+: 1655387749:0;nvim ~/.config/nvim/init.vim
+: 1655387834:0;y electron-wechat
+: 1655387838:0;ranger --copy-config=all
+: 1655387842:0;y ranger
+: 1655387847:0;ranger --copy-config=all
+: 1655387889:0;git clone https://gitee.com/markchieo/ranger
+: 1655387939:0;mv ranger ~/.config/
+: 1655387951:0;rm -r ~/.config/ranger
+: 1655387953:0;mv ranger ~/.config/
+: 1655387954:0;r
+: 1655387991:0;cd ~/.config/ranger
+: 1655387991:0;e
+: 1655387997:0;nvim scope.sh
+: 1655388035:0;y caca-utils 
+: 1655388054:0;y highlight 
+: 1655388091:0;y atool
+: 1655388099:0;y w3m 
+: 1655388106:0;y poppler
+: 1655388111:0;y mediainfo
+: 1655388118:0;y [200~catdoc~
+: 1655388121:0;y catdoc
+: 1655388134:0;y docx2txt
+: 1655388144:0;y xlsx2csv
+: 1655388155:0;y -xlsx2csv
+: 1655388169:0;y python3-xlsx2csv
+: 1655388174:0;y python-xlsx2csv
+: 1655388266:0;sudo snap install caca-utils
+: 1655388277:0;sudo snap install utils
+: 1655388283:0;r
+: 1655388324:0;nvim ~/.config/ranger
+: 1655388354:0;y pillow
+: 1655388370:0;y python37-pillow
+: 1655388374:0;sy
+: 1655388375:0;y python37-pillow
+: 1655388434:0;nvim ~/.config/ranger/rc.conf
+: 1655388478:0;r
+: 1655388485:0;nvim ~/.config/ranger/rc.conf
+: 1655388507:0;r
+: 1655388510:0;nvim ~/.config/ranger/rc.conf
+: 1655388525:0;r
+: 1655388608:0;echo "export RANGER_LOAD_DEFAULT_RC=false">>~/.zshrc
+: 1655388626:0;nvim .zshrc
+: 1655388647:0;sudo wget -O /usr/local/bin/imgcat https://iterm2.com/utilities/imgcat
+: 1655388651:0;sy
+: 1655388653:0;sudo wget -O /usr/local/bin/imgcat https://iterm2.com/utilities/imgcat
+: 1655388675:0;sudo chmod 777 /usr/local/bin/imgcat
+: 1655388678:0;r
+: 1655388773:0;nvim ~/.config/nvim/init.vim
+: 1655388918:0;y spark
+: 1655388994:0;cd Downloads
+: 1655388995:0;e
+: 1655388999:0;x spark-store-dependencies-kylin.zip
+: 1655389001:0;cd spark-store-dependencies-kylin
+: 1655389005:0;e
+: 1655389008:0;x all-depends.tar.gz
+: 1655389011:0;e
+: 1655389016:0;cd all-depends
+: 1655389031:0;cd Debian10-or-ubuntu-20.04
+: 1655389032:0;e
+: 1655389043:0;nvim ä¸€éƒ´®å®ƒ©è£ƒ¥.sh
+: 1655389054:0;cd ../Debian\ 11
+: 1655389054:0;e
+: 1655389059:0;./install.sh
+: 1655389066:0;sudo nvim ./install.sh
+: 1655389080:0;cd ../Debian10-or-ubuntu-20.04
+: 1655389084:0;deb dde-qt5integration_5.1.12_amd64.deb
+: 1655389170:0;y deepin-extra
+: 1655389259:0;sudo nvim /etc/pacman.conf
+: 1655389288:0;sudo pacman -Syyu
+: 1655389303:0;yay -S deepin-wine-wechat  
+: 1655389306:0;sy
+: 1655389307:0;yay -S deepin-wine-wechat  
+: 1655389429:0;git clone https://gitee.com/deepin-community-store/spark-store.git
+: 1655389441:0;sy
+: 1655389442:0;git clone https://gitee.com/deepin-community-store/spark-store.git
+: 1655389472:0;cd spark-store
+: 1655389473:0;e
+: 1655389476:0;mkdir build && cd build
+: 1655389484:0;qmake ..\
+
+: 1655389490:0;make -j\
+
+: 1655389607:0;y gdebi
+: 1655389653:0;./build.sh
+: 1655389654:0;e
+: 1655389657:0;cd ..
+: 1655389661:0;./build.sh
+: 1655389719:0;sudo pacman -S deepin-wine deepin-wine32
+: 1655389725:0;y deepin-wine deepin-wine32
+: 1655389744:0;y deepin-wine5
+: 1655390083:0;cd Downloads
+: 1655390086:0;e
+: 1655390093:0;deb spark-store_3.1.1_amd64.deb
+: 1655390304:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655390313:0;y gdk-pixbuf
+: 1655390733:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655390741:0;y gdk-pixbuf
+: 1655390782:0;cd Downloads
+: 1655390786:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655390837:0;gdk-pixbuf -verson
+: 1655390846:0;sudo pacman -S gdk-pixbuf 
+: 1655390850:0;y gdk-pixbuf 
+: 1655390966:0;paru -Rc deepin-extra
+: 1655390987:0;reboot
+: 1655391142:0;cd Downloads
+: 1655391145:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655391172:0;y libqt5quick5
+: 1655391223:0;y gdk-pixbuf2 2.42.8-1
+: 1655391247:0;paru -Syyu
+: 1655391423:0;y libqtxdg
+: 1655391488:0;y deepin-wine-wechat
+: 1655391495:0;sy
+: 1655391497:0;y deepin-wine-wechat
+: 1655391672:0;y deepin-wine-tim
+: 1655391758:0;y playonlinux
+: 1655392136:0;cd Downloads
+: 1655392138:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655392150:0;y spark-store
+: 1655392282:0;nn
+: 1655392288:0;y neofetch
+: 1655392297:0;neofetch
+: 1655392327:0;env WINEPREFIX="$HOME/.deepinwine/Deepin-TIM" deepin-wine winecfg
+: 1655392337:0;y deepin-wine 
+: 1655392384:0;y deepin-wine5
+: 1655392563:0;sudo pacman -S archlinux-appstream-data  packagekit-qt5  flatpak fwupd
+: 1655392593:0;y screenfetch
+: 1655392599:0;screenfetch
+: 1655392635:0;sudo pacman -S archlinux-appstream-data packagekit-qt5 flatpak fwupd\
+
+: 1655392648:0;reboot
+: 1655392824:0;sudo pacman -S bluez bluez-utils blueman pulseaudio-bluetooth
+: 1655392910:0;sudo pacman -S bluedevil\
+\
+
+: 1655392958:0;rm  /var/lib/pacman/db.lck
+: 1655393001:0;sudo rm  /var/lib/pacman/db.lck
+: 1655393006:0;sudo rm -r /var/lib/pacman/db.lck
+: 1655471366:0;paru -Syyu
+: 1655471435:0;google-chrome --proxy-server=socks5://127.0.0.1:1080
+: 1655471447:0;y google-chrome 
+: 1655471991:0;y electron-wechat
+: 1655472135:0;y V2ray
+: 1655472140:0;y v2ray
+: 1655472147:0;v2ray
+: 1655474046:0;y electron-wechat
+: 1655474053:0;nvim ~/.config/nvim/init.vim
+: 1655474407:0;y wechat-uos
+: 1655474416:0;sy
+: 1655474417:0;y wechat-uos
+: 1655474565:0;y intellij-idea-community-edition
+: 1655474577:0;javac
+: 1655474580:0;yjava
+: 1655474583:0;y java
+: 1655474592:0;bash
+: 1655474646:0;y java17-openjfx
+: 1655474694:0;sudo nvim /etc/environment
+: 1655474719:0;source /etc/environment
+: 1655474741:0;sudo pacman -S jdk8-openjdk
+: 1655474754:0;archlinux-java status
+: 1655474767:0;sudo archlinux-java set java-8-openjdk
+: 1655474805:0;y intellij-idea-community-edition
+: 1655474874:0;nvim ~/.config/nvim/init.vim
+: 1655475014:0;y eclipse-java
+: 1655475032:0;sy
+: 1655475033:0;y eclipse-java
+: 1655475233:0;cd ~/.vim/bundle\
+
+: 1655475238:0;git clone https://github.com/vim-airline/vim-airline
+: 1655475407:0;sy
+: 1655475408:0;git clone https://github.com/vim-airline/vim-airline
+: 1655475419:0;git clone https://gitclone.com/github.com/vim-airline/vim-airline
+: 1655475440:0;nvim ~/.config/nvim/init.vim
+: 1655475506:0;git clone https://gitclone.com/github.com/ryanoasis/vim-devicons\
+
+: 1655475523:0;nvim ~/.config/nvim/init.vim
+: 1655475622:0;git clone https://gitclone.com/github.com/sillybun/vim-repl
+: 1655475628:0;nvim ~/.config/nvim/init.vim
+: 1655475780:0;git clone https://gitclone.com/github.com/klen/python-mode
+: 1655475806:0;git clone https://gitclone.com/github.com/ivanov/vim-ipython\
+
+: 1655475835:0;git clone https://github.com/ivanov/vim-ipython\
+
+: 1655475843:0;nvim ~/.config/nvim/init.vim
+: 1655476142:0;uy
+: 1655476472:0;nvim .zshrc
+: 1655476497:0;sy
+: 1655476549:0;uy
+: 1655477138:0;nvim ~/.config/nvim/init.vim
+: 1655477212:0;cd ~/.config/nvim
+: 1655477213:0;e
+: 1655477221:0;nvim ~/.config/nvim/init.vim
+: 1655477261:0;e
+: 1655477265:0;rm -r plugged
+: 1655477272:0;mkdir plugged
+: 1655477276:0;nvim ~/.config/nvim/init.vim
+: 1655477342:0;cd plugged
+: 1655477346:0;git clone https://github.com/scrooloose/nerdtree
+: 1655477374:0;git clone https://gitclone.com/github.com/scrooloose/nerdtree
+: 1655477398:0;nvim ../init.vim
+: 1655477671:0;git clone https://gitclone.com/github.com/vim-airline/vim-airline\
+
+: 1655477676:0;nvim ../init.vim
+: 1655477755:0;git clone https://gitclone.com/github.com/vim-airline/vim-airline-themes
+: 1655477760:0;nvim ../init.vim
+: 1655477893:0;git clone https://gitclone.com/github.com/ryanoasis/vim-devicons\
+
+: 1655477916:0;nvim ../init.vim
+: 1655478030:0;git clone https://gitlone.com/github.com/luochen1990/rainbow
+: 1655478058:0;git clone https://github.com/luochen1990/rainbow\
+
+: 1655478088:0;git clone https://gitlone.com/github.com/luochen1990/rainbow
+: 1655478106:0;git clone https://github.com/luochen1990/rainbow
+: 1655478161:0;nvim ../init.vim
+: 1655478259:0;sy
+: 1655478260:0;nvim ../init.vim
+: 1655478289:0;git clone https://github.com/davidhalter/jedi-vim
+: 1655478306:0;git clone https://gitclone.com/github.com/davidhalter/jedi-vim
+: 1655478311:0;nvim ../init.vim
+: 1655478400:0;git clone https://gitclone.com/github.com/vim-scripts/indentpython.vim
+: 1655478405:0;nvim ../init.vim
+: 1655478465:0;git clone https://github.com/github.com/hdima/python-syntax
+: 1655478474:0;git clone https://github.com/hdima/python-syntax
+: 1655478483:0;git clone https://github.com/hdima/python-syntax.git
+: 1655478586:0;git clone https://github.com/sillybun/vim-repl
+: 1655478595:0;git clone https://gitclone.com/github.com/sillybun/vim-repl
+: 1655478611:0;nvim ../init.vim
+: 1655478689:0;git clone https://gitclone.com/github.com/liuchengxu/vim-clap
+: 1655478694:0;nvim ../init.vim
+: 1655478899:0;uy
+: 1655478900:0;nvim ../init.vim
+: 1655478973:0;cd ..
+: 1655478974:0;e
+: 1655478980:0;rm -r plug
+: 1655479044:0;nvim init.vim
+: 1655479047:0;e
+: 1655479051:0;nvim init.vim
+: 1655479128:0;nvim ~/.config/nvim/init.vim
+: 1655559976:0;y simple-package-manager 
+: 1655560067:0;y plasma5-applets-latte-separator 
+: 1655560148:0;y plasma5-applets-translator
+: 1655560573:0;reboot
+: 1655561673:0;nvim ~/.config/nvim/init.vim
+: 1655561972:0;paru -Syyu
+: 1655562573:0;cd Downloads
+: 1655562573:0;e
+: 1655562579:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655562592:0;cd spark-store-dependencies-kylin
+: 1655562600:0;cd all-depends/Debian10-or-ubuntu-20.04
+: 1655562601:0;e
+: 1655562882:0;nvim ~/.config/nvim/init.vim
+: 1655563417:0;y python-translate
+: 1655563862:0;bash
+: 1655563929:0;r
+: 1655563941:0;nvim .zshrc
+: 1655563963:0;source .zshrc
+: 1655563985:0;r
+: 1655564061:0;y ttf-nerd-fonts-hack-complete-git 
+: 1655564147:0;y typora
+: 1655564379:0;y playonlinux
+: 1655596854:0;nvim .zshrc
+: 1655596868:0;source .zshrc
+: 1655596872:0;nvim .zshrc
+: 1655596888:0;source .zshrc
+: 1655596891:0;nvim .zshrc
+: 1655596901:0;source .zshrc
+: 1655597220:0;nvim .oh-my-zsh/themes/robbyrussell.zsh-theme
+: 1655597243:0;source .zshrc
+: 1655597260:0;nvim .oh-my-zsh/themes/robbyrussell.zsh-theme
+: 1655597289:0;source .zshrc
+: 1655597292:0;nvim .oh-my-zsh/themes/robbyrussell.zsh-theme
+: 1655597305:0;source .zshrc
+: 1655597486:0;nvim .oh-my-zsh/themes/xiong-chiamiov-plus.zsh-theme 
+: 1655597507:0;source .zshrc
+: 1655597510:0;nvim .oh-my-zsh/themes/xiong-chiamiov-plus.zsh-theme 
+: 1655597515:0;nvim .zshrc
+: 1655597542:0;source .zshrc
+: 1655597576:0;nvim .zshrc
+: 1655597591:0;source .zshrc
+: 1655597604:0;r
+: 1655597635:0;nvim
+: 1655597648:0;r
+: 1655597768:0;git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
+: 1655597779:0;cd
+: 1655597790:0;git clone --depth 1 https://gitclone.com/github.com/ryanoasis/nerd-fonts.git
+: 1655597910:0;git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
+: 1655597920:0;npm install -g spaceship-prompt
+: 1655597930:0;y nmp
+: 1655597936:0;y npm
+: 1655597942:0;npm install -g spaceship-prompt
+: 1655598001:0;cd ~\
+wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz
+: 1655598024:0;npm -v
+: 1655598131:0;cd ~\
+wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz
+: 1655599156:0;sy
+: 1655599157:0;cd ~\
+wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz
+: 1655599190:0;git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
+: 1655599193:0;sy
+: 1655599194:0;git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
+: 1655602941:0;wall
+: 1655603169:0;cd ~\
+wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655603208:0;uy
+: 1655603210:0;cd ~\
+wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655603232:0;nvim
+: 1655603255:0;nvim ~/.config/nvim/init.vim
+: 1655603593:0;reboot
+: 1655604918:0;y mou
+: 1655604993:0;cd
+: 1655604996:0;cd Downloads
+: 1655604997:0;e
+: 1655605007:0;x Mou.zip
+: 1655605010:0;cd Mou
+: 1655605011:0;e
+: 1655605019:0;cd
+: 1655605022:0;cd Downloads
+: 1655605032:0;e
+: 1655605036:0;rm -r *
+: 1655606358:0;cd Downloads
+: 1655606359:0;e
+: 1655606371:0;x typora-cobalt-theme-master-v1.4.zip sneh.zip
+: 1655606372:0;e
+: 1655606377:0;cd sneh
+: 1655606378:0;e
+: 1655606404:0;cp sneh.css sneh-dark.css /home/john/.config/Typora/themes/
+: 1655606407:0;cd sneh
+: 1655606407:0;e
+: 1655606410:0;cd ..
+: 1655606414:0;cd typora-cobalt-theme-master-v1.4
+: 1655606416:0;e
+: 1655606424:0;cp cobalt.css /home/john/.config/Typora/themes/
+: 1655606426:0;cd
+: 1655606649:0;cd Downloads
+: 1655606651:0;https://github.com/evgo2017/typora-theme-orange-heart
+: 1655606657:0;git clone https://github.com/evgo2017/typora-theme-orange-heart
+: 1655606666:0;cd typora-theme-orange-heart
+: 1655606668:0;e
+: 1655606681:0;cp orangeheart.css ~/.config/Typora/themes
+: 1655606857:0;cd ..
+: 1655606861:0;git clone https://github.com/MarMomento/typora-mo-theme
+: 1655606871:0;cd typora-mo-theme
+: 1655606872:0;e
+: 1655606882:0;cp mo.css mo-dark.css ~/.config/Typora/themes
+: 1655607064:0;cd Downloads
+: 1655607064:0;e
+: 1655607075:0;cp misty-light-windows.css ~/.config/Typora/themes
+: 1655607319:0;typora mmm.md
+: 1655607342:0;nvim .zshrc
+: 1655607360:0;cd Documents
+: 1655607361:0;e
+: 1655607367:0;mkdir Markdown
+: 1655607370:0;cd Mor
+: 1655607373:0;cd Markdown
+: 1655607387:0;source ~/.zshrc
+: 1655607425:0;mkdir Java-éƒ¿©éƒºå¹³
+: 1655607428:0;cd Java-éƒ¿©éƒºå¹³
+: 1655607489:0;ty 1.Javaå¼€åƒ¯ƒ±æ³¨æƒ¤ƒ¯äºƒ«éƒ¹åƒ¯ƒªç»ƒ¦èƒª‚è¯´æƒ¸ƒ®.md
+: 1655607698:0;cd
+: 1655607701:0;nvim ~/.config/nvim/init.vim
+: 1655607816:0;cd ~/Downloads
+: 1655607823:0;mv éƒ¿©éƒºå¹³_å¾ªåºƒ¯æ¸ƒ°è¿ƒ»å­¦Javaéƒ»¶åƒ¿ºçƒ€ã€ƒ°å®ƒ¬æƒµ´ç¬ƒ´è®°ã€ƒ±.pdf ~/Documents
+: 1655607828:0;cd ~/Documents
+: 1655607895:0;cd Documents
+: 1655607896:0;e
+: 1655607954:0;mkdir Java-îƒ¼¸
+: 1655607956:0;e
+: 1655607961:0;cd Java-îƒ¼¸
+: 1655607962:0;e
+: 1655608055:0;javac 1-Hello_World.java
+: 1655608081:0;cd Downloads
+: 1655608091:0;cd ~/doc
+: 1655608092:0;cd ~/Documents
+: 1655608094:0;cd Java-îƒ¼¸
+: 1655608095:0;e
+: 1655608118:0;mv 1-Hello_World.java Hello.java
+: 1655608145:0;javac Hello.java
+: 1655608148:0;java Hello
+: 1655608484:0;y translate-shell
+: 1655608497:0;trans
+: 1655608516:0;y translate-toolkit
+: 1655611587:0;nvim ~/.config/nvim/init.vim
+: 1655611742:0;cd ~/.vim/bundle\
+git clone https://github.com/neoclide/coc.nvim
+: 1655611754:0;git clone https://gitclone.com/github.com/neoclide/coc.nvim
+: 1655611918:0;cd Documents
+: 1655611919:0;e
+: 1655611921:0;cd Java-îƒ¼¸
+: 1655611922:0;e
+: 1655611931:0;javac Hello.java
+: 1655611935:0;java Tag
+: 1655611943:0;java Hello
+: 1655617237:0;y kite
+: 1655617302:0;sy
+: 1655617303:0;y kite
+: 1655617451:0;nvim ~/.config/nvim/init.vim
+: 1655617474:0;cd ~/.vim/bundle\
+git clone https://github.com/neoclide/coc.nvim
+: 1655617482:0;rm -r coc.nvim
+: 1655617484:0;cd ~/.vim/bundle\
+git clone https://github.com/neoclide/coc.nvim
+: 1655617498:0;git clone https://github.com/github.com/neoclide/coc.nvim
+: 1655617506:0;git clone https://gitclone.com/github.com/neoclide/coc.nvim
+: 1655617834:0;nvim ~/.config/nvim/init.vim
+: 1655617868:0;cd doc
+: 1655617870:0;cd Documents
+: 1655617871:0;e
+: 1655617876:0;cd Markdown
+: 1655617877:0;e
+: 1655618001:0;mkdir book-ï€­
+: 1655618017:0;mv book-ï€­ ..
+: 1655618019:0;cd ..
+: 1655618025:0;mv éƒ¿©éƒºå¹³_å¾ªåºƒ¯æ¸ƒ°è¿ƒ»å­¦Javaéƒ»¶åƒ¿ºçƒ€ã€ƒ°å®ƒ¬æƒµ´ç¬ƒ´è®°ã€ƒ±.pdf book-ï€­ 
+: 1655618026:0;e
+: 1655618090:0;mv code-folder code-folder-îƒ¾ƒ¶
+: 1655618091:0;e
+: 1655618097:0;cd Tencent\ Files
+: 1655618098:0;e
+: 1655618100:0;cd ..
+: 1655618133:0;e
+: 1655618136:0;cd book-ï€­
+: 1655618137:0;e
+: 1655618141:0;cd ..
+: 1655618143:0;cd Markdown
+: 1655618143:0;e
+: 1655618175:0;cd ..
+: 1655618187:0;mv code-folder-îƒ¾ƒ¶ code-folder-îƒ¼ƒ¬
+: 1655618211:0;mv Markdown Markdown-ïƒ²ƒª
+: 1655618214:0;cd Markdown-ïƒ²ƒª
+: 1655618215:0;e
+: 1655618238:0;mv Java-éƒ¿©éƒºå¹³ Java-éƒ¿©éƒºå¹³-îƒ©ƒ¶
+: 1655618242:0;e
+: 1655618314:0;mkdir studies-ï¥³
+: 1655618326:0;e
+: 1655618334:0;cd studies-ï¥³
+: 1655618336:0;e
+: 1655618355:0;mkdir Biology
+: 1655618357:0;cd ..
+: 1655618370:0;mv studies-ï¥³ Studies-ï¥³ \
+
+: 1655618373:0;cd mark
+: 1655618377:0;e
+: 1655618380:0;cd Studies-ï¥³
+: 1655618380:0;e
+: 1655618386:0;cd Biology
+: 1655618386:0;e
+: 1655619789:0;nvim ~/.config/nvim/init.vim
+: 1655619811:0;cd Downloads
+: 1655619811:0;e
+: 1655619824:0;x typora-vue-theme-master.zip
+: 1655619827:0;cd typora-vue-theme-master
+: 1655619827:0;w
+: 1655619830:0;e
+: 1655619832:0;cd typora-vue-theme-master
+: 1655619833:0;e
+: 1655619850:0;cp *.css ~/.config/Typora/themes
+: 1655619851:0;cd
+: 1655619974:0;nvim ~/.config/nvim/init.vim
+: 1655619994:0;paru -S nodejs
+: 1655619999:0;nvim ~/.config/nvim/init.vim
+: 1655620019:0;cd ~/.vim/bundle/coc.nvim
+: 1655620019:0;e
+: 1655620026:0;make bulid
+: 1655620030:0;nvim ~/.config/nvim/init.vim
+: 1655620072:0;y idex.js
+: 1655620075:0;nvim ~/.config/nvim/init.vim
+: 1655620085:0;y index.js
+: 1655620096:0;nvim ~/.config/nvim/init.vim
+: 1655620812:0;node -status
+: 1655620818:0;node -v
+: 1655620827:0;y node.js
+: 1655620831:0;y nodejs
+: 1655620925:0;npm install
+: 1655620979:0;sudo npm install -g yarn 
+: 1655620993:0;yarn install yarn build\
+
+: 1655621007:0;yarn add yarn build\
+
+: 1655621075:0;yarn install yarn build\
+
+: 1655621081:0;nvim ~/.config/nvim/init.vim
+: 1655621556:0;cd ..
+: 1655621557:0;e
+: 1655621569:0;cp * ~/.config/nvim/plugged
+: 1655621575:0;cp -r * ~/.config/nvim/plugged
+: 1655621578:0;sudo cp -r * ~/.config/nvim/plugged
+: 1655621587:0;cd ~/.config/nvim
+: 1655621594:0;nvim init.vim
+: 1655624842:0;y tag
+: 1655625532:0;cd
+: 1655625539:0;y tags
+: 1655625544:0;y tag
+: 1655625764:0;nvim ~/.config/nvim/init.vim
+: 1655625791:0;y ctags
+: 1655625799:0;paru -Syyu
+: 1655625832:0;screenfetch
+: 1655625846:0;paru -Sy snapd
+: 1655625866:0;paru -Syyu
+: 1655625883:0;paru -Sy snap
+: 1655625890:0;s
+: 1655625896:0;nvim .zshrc
+: 1655625915:0;source .zshrc
+: 1655625917:0;f
+: 1655625920:0;r
+: 1655625952:0;s
+: 1655625955:0;nn
+: 1655625960:0;nvim .zshrc
+: 1655625972:0;source .zshrc
+: 1655625974:0;nn
+: 1655626631:0;nvim 
+: 1655626778:0;nvim
+: 1655626812:0;cd ~/.config/nvim/plugged/coc.nvim/plugin/
+: 1655626813:0;e
+: 1655626858:0;cd ..
+: 1655626865:0;rm -r coc.nvim
+: 1655626868:0;cd ..
+: 1655626871:0;nvim
+: 1655626876:0;nvim ~/.config/nvim/init.vim
+: 1655626948:0;nn
+: 1655627012:0;y  golddict
+: 1655627039:0;y stardict
+: 1655627176:0;cd
+: 1655627179:0;y ca-certificates
+: 1655627185:0;wget -O- https://deepin-wine.i-m.dev/setup.sh | sh
+: 1655627530:0;nvim ~/.config/nvim/init.vim
+: 1655628746:0;cd
+: 1655628748:0;nvim 
+: 1655628754:0;nvim ~/.config/nvim/init.vim
+: 1655628971:0;cd
+: 1655628976:0;cd Downloads
+: 1655628976:0;e
+: 1655628981:0;nvim setup.sh
+: 1655629044:0;sudo chmod u+x setup.sh
+: 1655629054:0;./setup.sh
+: 1655629062:0;nvim setup.sh
+: 1655629077:0;./setup.sh
+: 1655629079:0;nvim setup.sh
+: 1655629096:0;./setup.sh
+: 1655629099:0;cd
+: 1655629192:0;y systemd-container
+: 1655629220:0;y nspawn
+: 1655629561:0;sudo nano /etc/sudoers\
+
+: 1655629577:0;su
+: 1655629604:0;nvim
+: 1655629636:0;yay -S com.qq.weixin.spark\
+
+: 1655629654:0;uy
+: 1655629655:0;yay -S com.qq.weixin.spark\
+
+: 1655632014:0;nvim sss.md
+: 1655632028:0;rm sss.md
+: 1655632188:0;y  arch-install-scripts
+: 1655632202:0;mkdir ~/MyContainer
+: 1655632208:0;pacstrap -i -c ~/MyContainer base [additional pkgs/groups]
+: 1655632216:0;bash
+: 1655632336:0;sudo systemd-nspawn -D ~/MyContainer
+: 1655632549:0;nvim ~/.config/nvim/init.vim
+: 1655633068:0;wget https://dl.suckless.org/dwm/dwm-6.2.tar.gz\
+
+: 1655633093:0;mv dwm-6.2 .dwm\
+cd .dwm
+: 1655633097:0;e
+: 1655633115:0;sudo make clean install
+: 1655633126:0;cd
+: 1655633127:0;echo exec dwm >> ~/.xinitrc\
+
+: 1655633136:0;sudo vim /usr/share/xsessions/dwm.desktop 
+: 1655633212:0;sudo pacman -S alacritty\
+
+: 1655633226:0;rm -r dwm-6.2.tar.gz
+: 1655633231:0;rm -r .dwm
+: 1655633234:0;git clone https://git.suckless.org/dwm\
+
+: 1655633249:0;git clone https://gitclone.com/git.suckless.org/dwm\
+
+: 1655633252:0;git clone https://git.suckless.org/dwm\
+
+: 1655633269:0;wget https://dl.suckless.org/dwm/dwm-6.2.tar.gz\
+
+: 1655633277:0;x dwm-6.2.tar.gz
+: 1655633282:0;rm -r dwm-6.2.tar.gz
+: 1655633292:0;mv dwm-6.2 .dwm
+: 1655633302:0;cd .dwm
+: 1655633307:0;nvim config.h
+: 1655633319:0;nvim config.def.h
+: 1655633377:0;sudo make clean install
+: 1655633388:0;nvim config.mk
+: 1655633444:0;cd /etc/X11/xinit/
+: 1655633445:0;e
+: 1655633447:0;cd xinitrc.d
+: 1655633448:0;e
+: 1655633460:0;reboot
+: 1655633532:0;firefox
+: 1655633594:0;# su kler\
+ sudo pacman -S xorg-server\
+ sudo pacman -S xorg-apps\
+ sudo pacman -S xorg-xinit
+: 1655633636:0;	sudo pacman -Ss feh
+: 1655633641:0;	sudo pacman -S feh
+: 1655633655:0;nvim ~/kler_profiles/.dwm/dwm-wallpaper.sh
+: 1655633682:0;reboot
+: 1655634746:0;cd Documents
+: 1655634746:0;e
+: 1655634749:0;cd Java-îƒ¼¸
+: 1655634750:0;e
+: 1655634770:0;mkdir JavaDoc
+: 1655634787:0;javadoc -d JavaDoc -xx -yy Comment.java
+: 1655634807:0;javadoc -d JavaDoc -author -version Comment.java
+: 1655634818:0;cd JavaDoc
+: 1655634819:0;e
+: 1655634836:0;w3m Hello.html
+: 1655635030:0;cd ..
+: 1655635037:0;e
+: 1655635077:0;javac Var01.java
+: 1655635082:0;java Var01
+: 1655635275:0;javac Var02.java
+: 1655635288:0;java Var02
+: 1655635372:0;nvim java.sh
+: 1655635574:0;chmod u+x java.sh
+: 1655635579:0;./java.sh
+: 1655635592:0;e
+: 1655635595:0;./java.sh
+: 1655635610:0;./java.sh Var01
+: 1655635632:0;nvim ~/.zshrc
+: 1655635690:0;e
+: 1655635699:0;mv java.sh ~
+: 1655635702:0;nvim ~/.zshrc
+: 1655635738:0;source ~/.zshrc
+: 1655635741:0;javas
+: 1655636029:0;cd
+: 1655636032:0;cd Downloads
+: 1655636033:0;e
+: 1655636159:0;sudo pacman -S dde-store\
+\
+
+: 1655636165:0;y dde-store\
+\
+
+: 1655636183:0;y dde-store
+: 1655636201:0;git clone https://github.com/dekzi/dde-store.git
+: 1655636222:0;git clone https://gitclonecom/github.com/dekzi/dde-store.git
+: 1655636226:0;git clone https://gitclone.com/github.com/dekzi/dde-store.git
+: 1655636242:0;git clone https://gitclonecom/github.com/dekzi/dde-store.git
+: 1655636246:0;git clone https://github.com/dekzi/dde-store.git
+: 1655636291:0;y sudoapt installqt5-default libdtkcore-dev libdtkwidget-dev qtwebengine5-dev libnotify-dev
+: 1655636302:0;y qt5-default libdtkcore-dev libdtkwidget-dev qtwebengine5-dev libnotify-dev
+: 1655636314:0;y qt5-default 
+: 1655636329:0;git clone https://github.com/dekzi/dde-store.git
+: 1655636357:0;y debhelper 
+: 1655636379:0;sudo snap install qt5-default 
+: 1655636388:0;sudo npm install qt5-default 
+: 1655636417:0;y python3-pip3
+: 1655636420:0;y python3-pip
+: 1655636441:0;y pypy3-pip
+: 1655636481:0;sudo pacman -S deepin-store
+: 1655636524:0;git clone https://github.com/dekzi/dde-store.git\
+
+: 1655636594:0;y  file-roller evince gedit thunderbird gpicview
+: 1655636638:0;git clone https://gitclone.com/github.com/dekzi/dde-store.git
+: 1655636709:0;sudo pacman -S deepin-wine deepin-wine32\
+
+: 1655636715:0;y deepin-wine deepin-wine32\
+
+: 1655636778:0;cd dde-store
+: 1655636779:0;e
+: 1655636797:0;cmake .
+: 1655636803:0;sudo make install\
+
+: 1655636861:0;sudo pacman -S deepin-store\
+
+: 1655636893:0;cd ..
+: 1655636895:0;git clone https://gitee.com/deepin-community-store/spark-store.git
+: 1655636925:0;cd spark-store
+: 1655636926:0;dpkg-buildpackage
+: 1655636933:0;e
+: 1655636938:0;cmake .
+: 1655636941:0;cmake 
+: 1655636949:0;./translate_generation.sh
+: 1655636966:0;cd ..
+: 1655636967:0;e
+: 1655636974:0;x spark-store-dependencies-kylin.zip
+: 1655636976:0;cd spark-store
+: 1655636978:0;e
+: 1655636980:0;cd ..
+: 1655636984:0;cd spark-store-dependencies-kylin
+: 1655636984:0;e
+: 1655636986:0;cd spark-store-dependencies-kylin
+: 1655636990:0;e
+: 1655636993:0;x all-depends.tar.gz
+: 1655636996:0;cd all-depends
+: 1655636996:0;e
+: 1655637002:0;cd Debian10-or-ubuntu-20.04
+: 1655637003:0;e
+: 1655637010:0;cd ~/Downloads
+: 1655637015:0;deb spark-store_3.1.1_amd64.deb
+: 1655637357:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655637371:0;y gdk-pixbuf
+: 1655637444:0;gdk-pixbuf -verson
+: 1655637454:0;sudo pacman -S gdk-pixbuf
+: 1655637460:0;yay -S gdk-pixbuf
+: 1655637568:0;deb spark-store_3.1.1_amd64.deb
+: 1655637572:0;au spark-store-3.1.1-1-x86_64.pkg.tar.zst
+: 1655637604:0;y adobe-flash-properties-gtk
+: 1655637712:0;y  xsettingsd
+: 1655637766:0;xsettingsd /usr/bin/xsettingsd
+: 1655638275:0;y deepin-store
+: 1655638326:0;y ice-store
+: 1655638343:0;y nutstore
+: 1655638348:0;nutstore
+: 1655638373:0;y cl-store
+: 1655638394:0;sudo nvim /etc/pacman.conf 
+: 1655638418:0;sudo pacman -Syy
+: 1655638422:0;sudo pacman -Syyu
+: 1655638479:0;y cl-store
+: 1655638496:0;sudo nvim /etc/pacman.d/mirrorlist 
+: 1655638516:0;reflector --country China --age 12 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
+: 1655638546:0;sudo nvim /etc/pacman.d/mirrorlist 
+: 1655638560:0;reflector --country China --age 24 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
+: 1655638601:0;sudo nvim /etc/pacman.d/mirrorlist 
+: 1655644545:0;nvim ~/.config/nvim/init.vim
+: 1655644550:0;n
+: 1655644814:0;sudo pacman -S fcitx fcitx-im fcitx-configtool
+: 1655644836:0;paru -Rs fcitx5-qt
+: 1655644841:0;paru -Rs fcitx5-configtool
+: 1655644850:0;paru -Rs fcitx5-qt
+: 1655644857:0;paru -Rs fcitx5-rime
+: 1655644863:0;paru -Rs fcitx5
+: 1655644866:0;sudo pacman -S fcitx fcitx-im fcitx-configtool
+: 1655644878:0;y fcitx-sogoupinyin\
+\
+
+: 1655644987:0;cd ~/.local/share
+: 1655644997:0;mv fcitx5 fcitx
+: 1655645022:0;rm -r ~/.local/share/fcitx5/rime/default.custom.yaml
+: 1655645025:0;sudo rm -r ~/.local/share/fcitx5/rime/default.custom.yaml
+: 1655645030:0;sudo rm  ~/.local/share/fcitx5/rime/default.custom.yaml
+: 1655645035:0;sudo rm  ~/.local/share/fcitx/rime/default.custom.yaml
+: 1655645048:0;yay -S fcitx-pinyin-zhwiki-rime
+: 1655646911:0;nvim sss.c
+: 1655648507:0;y playonlinux
+: 1655648657:0;y netpas
+: 1655648749:0;y proxychains-ng
+: 1655648757:0;proxychains
+: 1655648786:0;vim /usr/local/etc/proxychains.conf
+: 1655648806:0;sudo vim /usr/local/etc/proxychains.conf
+: 1655648816:0;proxychains4 nmap -sT -sV -Pn -n -p80 192.168.60.9/24
+: 1655648824:0;y nmap
+: 1655648828:0;proxychains4 nmap -sT -sV -Pn -n -p80 192.168.60.9/24
+: 1655648893:0;sudo nano /etc/proxychains.conf
+: 1655648906:0;sudo vim /etc/proxychains.conf
+: 1655648932:0;proxychains4 nmap -sT -sV -Pn -n -p80 192.168.60.9/24
+: 1655648940:0;proxychains nmap -sT -sV -Pn -n -p80 192.168.60.9/24
+: 1655648956:0;nvim .zshrc
+: 1655649069:0;uy
+: 1655649123:0;nvim .zshrc
+: 1655649164:0;source ~/.zshrc
+: 1655649294:0;proxychains nmap -sT -sV -Pn -n -p80 192.168.60.9/24
+: 1655728408:0;yay -S joplin
+: 1655728424:0;sudo pacman -Syy
+: 1655728428:0;sudo pacman -Syyu
+: 1655728443:0;yay -S marktext
+: 1655728520:0;joplin
+: 1655728788:0;y fcitx5
+: 1655728804:0;paru -Rs fcitx-configtool
+: 1655728816:0;paru -RS fcitx-qt5
+: 1655728818:0;paru -Rs fcitx-qt5
+: 1655728827:0;paru -Rs fcitx-sogoupinyin
+: 1655728829:0;paru -Rs fcitx-qt5
+: 1655728843:0;paru -RS fcitx-qt6
+: 1655728846:0;paru -Rs fcitx-qt6
+: 1655728849:0;paru -Rs fcitx
+: 1655728855:0;y fcitx5
+: 1655728883:0;yay -S fcitx5-im\
+
+: 1655728891:0;nano ~/.pam_environment\
+
+: 1655728897:0;yay -S fcitx5-rime\
+
+: 1655728910:0;yay -S fcitx5-material-color\
+
+: 1655728936:0;yay -S fcitx5-pinyin-sougou
+: 1655729098:0;sy
+: 1655729099:0;yay -S fcitx5-pinyin-sougou
+: 1655729321:0;sudo pacman -S fcitx5-pinyin-zhwiki\
+
+: 1655729329:0;sudo pacman -S fcitx5-pinyin-moegirl
+: 1655729340:0;sudo pacman -S fcitx5-im fcitx5-chinese-addons fcitx5-qt fcitx5-gtk\
+
+: 1655729351:0;sudo pacman -Rscn fcitx-im fcitx-configtool fcitx-googlepinyin\
+
+: 1655729375:0;sudo pacman -S fcitx5-nord
+: 1655729393:0;reboot
+: 1655729784:0;y fcitx5-pinyin-chinese-idiom     
+: 1655729899:0;sudo pacman -Syyu
+: 1655729905:0;n
+: 1655730237:0;./font-patcher.sh 
+: 1655730333:0;y build-essential automake flex bison
+: 1655730477:0;y cowsay
+: 1655730483:0;y tree
+: 1655730490:0;y htop
+: 1655730507:0;y cowsay Arch Linux
+: 1655730522:0;cowsay Arch Linux
+: 1655730600:0;npm install i5ting_toc -g
+: 1655730614:0;y  i5ting_toc
+: 1655730619:0;npm install i5ting_toc -g
+: 1655730656:0;cd
+: 1655730664:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655730668:0;uy
+: 1655730670:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655730674:0;nvim .zshrc
+: 1655730685:0;source ~/.zshrc
+: 1655730687:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655730698:0;y wget
+: 1655730700:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655730737:0;sy
+: 1655730739:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655730782:0;sudo vi /usr/local/etc/proxychains.conf
+: 1655730785:0;y vi
+: 1655730787:0;sudo vi /usr/local/etc/proxychains.conf
+: 1655730798:0;sudo nano /usr/local/etc/proxychains.conf
+: 1655730808:0;sudo rm /usr/local/etc/proxychains.conf
+: 1655730823:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655730836:0;sudo nano /etc/proxychains.conf
+: 1655730845:0;sudo nvim /etc/proxychains.conf
+: 1655730879:0;source /etc/proxychains.conf
+: 1655730886:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655731005:0;sudo nvim /etc/proxychains.conf
+: 1655731025:0;source /etc/proxychains.conf
+: 1655731027:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655731032:0;git clone https://gitee.com/deepin-community-store/spark-store.git
+: 1655731078:0;git clone https://github.com/dekzi/dde-store.git
+: 1655731085:0;sudo nvim /etc/proxychains.conf
+: 1655731141:0;sudo nvim /etc/wgetrc
+: 1655731163:0;source\
+source /etc/wgetrc 
+: 1655731171:0;\
+source /etc/wgetrc 
+: 1655731175:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655731199:0;sudo nvim /etc/wgetrc
+: 1655731207:0;\
+source /etc/wgetrc 
+: 1655731209:0;wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz\
+
+: 1655731236:0;y switchhosts
+: 1655731323:0;sudo nvim /etc/profile
+: 1655731344:0;source /etc/profile
+: 1655731346:0;source
+: 1655731383:0;y yum
+: 1655731390:0;y npm
+: 1655731425:0;npm install i5ting_toc -g
+: 1655731501:0;npm cache clean --force
+: 1655731509:0;npm install
+: 1655731512:0;npm cache clean --force
+: 1655731514:0;npm install
+: 1655731515:0;npm cache clean --force
+: 1655731517:0;npm install
+: 1655731547:0;sudo rm /home/john/.npm/_logs/2022-06-20T13_25_33_912Z-debug-0.log\
+
+: 1655731550:0;npm install
+: 1655731575:0;npm cache clean --force\
+
+: 1655731580:0;npm config set registry " https://registry.npm.taobao.org "       \
+
+: 1655731588:0;npm install
+: 1655731599:0;paru -Rs npm
+: 1655731606:0;y npm
+: 1655731612:0;npm install
+: 1655731618:0;bash
+: 1655731679:0;npm config set registry https://registry.npmjs.org/\
+
+: 1655731684:0;curl https://registry.npmjs.org/\
+
+: 1655731691:0;nvim .zshrc
+: 1655731697:0;curl https://registry.npmjs.org/\
+
+: 1655731709:0;npm cache clean --force\
+
+: 1655731713:0;npm install
+: 1655731719:0;npm cache clean --force\
+
+: 1655731722:0;y npm
+: 1655731755:0;npmÂƒ€installÂƒ€xxxÂƒ€--Âƒ€force
+: 1655731765:0;npmÂƒ€installÂƒ€xxxÂƒ€--legacy-peer-deps
+: 1655731773:0;npm
+: 1655731807:0;y pip3
+: 1655731838:0;y python3-aur
+: 1655731921:0;y  i5ting
+: 1655732198:0;yay -S rime-cloverpinyin
+: 1655732209:0;sudo nano ~/.local/share/fcitx5/rime/default.custom.yaml
+: 1655732237:0;yay -S fcitx5-pinyin-sougou
+: 1655732274:0;yay -S dotnet-runtime\
+
+: 1655732365:0;cd Downloads
+: 1655732366:0;e
+: 1655732372:0;x dict.7z
+: 1655732386:0;sudo x dict.7z
+: 1655732391:0;sudo unzip dict.7z
+: 1655732400:0;cd dict
+: 1655732401:0;e
+: 1655732403:0;cd ..
+: 1655732404:0;e
+: 1655732425:0;x imewlconverter_Linux_Mac.tar.gz
+: 1655732432:0;e
+: 1655732508:0;cd Downloads
+: 1655732510:0;cd dict
+: 1655732511:0;e
+: 1655732525:0;cp * ~/.local/share/fcixt5/rime
+: 1655732534:0;mkdir ~/.local/share/fcixt5/rime
+: 1655732536:0;sudo mkdir ~/.local/share/fcixt5/rime
+: 1655732546:0;mkdir -p ~/.local/share/fcixt5/rime
+: 1655732550:0;cp * ~/.local/share/fcixt5/rime
+: 1655732578:0;y pacman -S fcitx5-material-color
+: 1655732582:0;sudo  pacman -S fcitx5-material-color
+: 1655732597:0;sudo nvim ~/.config/fcitx5/conf/classicui.conf
+: 1655732630:0;fc-list | grep "monaco"
+: 1655732632:0;sudo nvim ~/.config/fcitx5/conf/classicui.conf
+: 1655733021:0;y yuque
+: 1655735844:0;nvim su.c
+: 1655735870:0;nvim sss.java
+: 1655735891:0;nvim sss.py
+: 1655735905:0;nvim sss.html
+: 1655735987:0;rm sss.html
+: 1655736026:0;nvim
+: 1655822519:0;sudo pacman -Syyu
+: 1655822588:0;y dde-store
+: 1655822604:0;y electron-wechat
+: 1655823567:0;git clone https://github.com/Theigrams/My-Typora-Themes
+: 1655823579:0;nvim .zshrc
+: 1655823591:0;source .zshrc
+: 1655823593:0;git clone https://github.com/Theigrams/My-Typora-Themes
+: 1655823608:0;git clone https://gitclone.com/github.com/Theigrams/My-Typora-Themes
+: 1655823722:0;git clone https://github.com/Theigrams/My-Typora-Themes
+: 1655823726:0;nvim .zshrc
+: 1655823732:0;git clone https://github.com/Theigrams/My-Typora-Themes
+: 1655823749:0;git clone https://github.com.cnpmjs.org/Theigrams/My-Typora-Themes.git
+: 1655823784:0;cd Downloads
+: 1655823785:0;e
+: 1655823792:0;exa
+: 1655823794:0;ls
+: 1655823797:0;l
+: 1655823800:0;e
+: 1655823815:0;cd My-Typora-Themes-master
+: 1655823815:0;e
+: 1655823829:0;cp *.css ~/.config/Typora/themes/
+: 1655823934:0;git clone https://github.com/garyzhang2002/typora-theme-rainbow/releases
+: 1655823960:0;proxychains4 git clone https://github.com/garyzhang2002/typora-theme-rainbow/releases
+: 1655823973:0;proxychains git clone https://github.com/garyzhang2002/typora-theme-rainbow/releases
+: 1655823981:0;git clone https://github.com/garyzhang2002/typora-theme-rainbow/releases
+: 1655823994:0;git clone https://gitclone.com/github.com/garyzhang2002/typora-theme-rainbow/releases
+: 1655823996:0;git clone https://github.com/garyzhang2002/typora-theme-rainbow/releases
+: 1655824065:0;cd Downloads
+: 1655824073:0;cd typora-theme-essay_cn-master
+: 1655824074:0;e
+: 1655824078:0;cp *.css ~/.config/Typora/themes/
+: 1655904752:0;nvim .zshrc
+: 1655904767:0;mv java.sh .java.sh
+: 1655904769:0;nvim .zshrc
+: 1655904777:0;source .zshrc
+: 1655904787:0;nvim .runner.sh
+: 1655905047:0;chmod u+x .runner.sh
+: 1655905055:0;nvim detail.py
+: 1655905083:0;./.runner.sh
+: 1655905090:0;./.runner.sh detail.py
+: 1655905102:0;nvim .runner.sh
+: 1655905120:0;./.runner.sh detail.py
+: 1655905126:0;nvim .runner.sh
+: 1655905352:0;nvim detail.java
+: 1655905411:0;./.runner.sh detail.java
+: 1655905417:0;nvim detail.java
+: 1655905431:0;nvim .runner.sh
+: 1655905477:0;./.runner.sh detail.java
+: 1655905492:0;nvim detail.java
+: 1655905500:0;./.runner.sh detail.java
+: 1655905648:0;nvim .runner.sh
+: 1655905721:0;nvim detail.c
+: 1655905798:0;gcc detail.c
+: 1655905803:0;nvim detail.c
+: 1655905813:0;gcc detail.c
+: 1655905817:0;./a.out
+: 1655905821:0;nvim .runner.sh
+: 1655905836:0;./.runner.sh detail.c
+: 1655905838:0;nvim .runner.sh
+: 1655905844:0;cd Downloads
+: 1655905845:0;e
+: 1655905857:0;ls
+: 1655905872:0;cd ~/Documents
+: 1655905873:0;e
+: 1655905897:0;cd
+: 1655905909:0;w3m åƒªƒ¿.html
+: 1655905930:0;firefox åƒªƒ¿.html
+: 1655905949:0;y google-chrome
+: 1655906044:0;nvim .runner.sh
+: 1655906524:0;y fim
+: 1655906599:0;paru -Syyu
+: 1655906667:0;reflector --country China --age 24 --sort rate --protocol https --save /etc/pacman.d/mirrorlist
+: 1655906670:0;nvim .runner.sh
+: 1655906945:0;y sox
+: 1655906963:0;y libsox-fmt-all
+: 1655907447:0;./.runner.sh detail.c
+: 1655907460:0;y libsox-fmt-all
+: 1655907465:0;nvim .runner.sh
+: 1655907510:0;./.runner.sh detail.c
+: 1655907518:0;nvim .zshrc
+: 1655907545:0;source .zshrc
+: 1655907554:0;runner detail.c
+: 1655907561:0;rm detail.c
+: 1655907564:0;rm detail.class
+: 1655907567:0;rm detail.java
+: 1655907572:0;rm detail.py
+: 1655907612:0;nvim detail.java
+: 1655907621:0;runner detail.java
+: 1655907627:0;nvim .zshrc
+: 1655907639:0;nvim .java.sh
+: 1655907651:0;code .java.sh
+: 1655907666:0;nvim .runner.sh
+: 1655907708:0;runner detail.java
+: 1655907728:0;nvim .zshrc
+: 1655907735:0;source .zshrc
+: 1655907747:0;rm detail.java
+: 1655907750:0;rm detail.class
+: 1655907801:0;nvim .runner.sh
+: 1655907914:0;cd Documents
+: 1655907914:0;e
+: 1655907918:0;cd code-folder-îƒ¼ƒ¬
+: 1655907919:0;e
+: 1655907925:0;cd C
+: 1655907926:0;e
+: 1655907984:0;run Demo1.c
+: 1655907992:0;cd
+: 1655907993:0;nvim .runner.sh
+: 1655908077:0;cd Documents
+: 1655908079:0;cd code-folder-îƒ¼ƒ¬
+: 1655908085:0;e ..
+: 1655908099:0;cd c
+: 1655908101:0;cd C
+: 1655908104:0;run Demo1.c
+: 1655908111:0;y gcc
+: 1655908121:0;cd ..
+: 1655908123:0;cd
+: 1655908125:0;nvim .runner.sh
+: 1655908331:0;cd Documents
+: 1655908333:0;cd code-folder-îƒ¼ƒ¬
+: 1655908335:0;cd C
+: 1655908336:0;e
+: 1655908340:0;run Demo1.c
+: 1655908473:0;cd
