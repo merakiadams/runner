@@ -4,8 +4,9 @@
 
 ## Introduce
 
- 🐸 This is a script to execut files.
- 🌹 The files it can execute include { ".java", ".c", ".py", ".md", ".docx", ".pdf",... }
+ 🐸 This is a script to execut all kinds of files.
+ 
+ 🌹 The files it can execute include { ".java", ".c", ".py", ".md", ".docx", ".pdf",... }.
 
 
 ## Framework
