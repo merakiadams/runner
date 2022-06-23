@@ -8,16 +8,16 @@
  🌹 The files it can execute include { ".java", ".c", ".py", ".md", ".docx", ".pdf",... }
 
 
-### Framework
+## Framework
 
 It is just a shell script.
 
 
-### Installation
+## Installation
 
 If you want to use it, you will must to install `necessary package`.
 
-#### Java
+### Java
 
 - Arch Linux:
 
@@ -86,19 +86,19 @@ If you want to use it, you will must to install `necessary package`.
      source ~/.bashrc
      ```
 
-#### C
+### C
 
 ```bash
 sudo pacman -S gcc
 ```
 
-#### Python
+### Python
 
 ```bash
 sudo pacman -S python3
 ```
 
-#### Firefox
+### Firefox
 
 - Arch Linux
 
@@ -112,7 +112,7 @@ sudo pacman -S python3
   sudo apt install firefox
   ```
 
-#### fim
+### fim
 
 - Arch Linux
 
@@ -126,7 +126,7 @@ sudo pacman -S python3
   sudo apt install fim
   ```
 
-#### sox
+### sox
 
 - Arch Linux
 
@@ -140,7 +140,7 @@ sudo pacman -S python3
   sudo apt install sox
   ```
 
-### Instructions for use
+## Instructions for use
 
  🍀 If you want to get the best experience, you can to install [zsh](https://github.com/zsh-users/zsh) and [oh-my-zsh](https://ohmyz.sh/)
 
@@ -152,6 +152,6 @@ alias runner="source .runner.sh"
 
  🌸 Please make the script in your ${HOME}
 
-### Participate and contribute
+## Participate and contribute
 
 1.  Johnson
