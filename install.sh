@@ -7,6 +7,7 @@ then
 	exit
 fi
 
-cp runner.sh /usr/bin/runner
+mv runner.sh runner
+cp runner /usr/bin/
 chmod 755 /usr/bin/runner
 
