@@ -21,8 +21,7 @@ It is just a shell script.
 ```bash
 git clone https://github.com/Johnson170/runner/
 cd runner
-chmod u+x install.sh
-sudo ./install.sh
+chmod u+x install.sh && sudo ./install.sh
 ```
 
 If you want to use it, you will must to install `necessary package`.
