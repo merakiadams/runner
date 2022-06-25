@@ -123,6 +123,6 @@ elif [ "$1" == "-u" ]; then
 
     fi
 else
-    echo "runner: Argument missing after: "$1"x "
-    echo "More info with "runner -h"x "
+    echo "runner: Argument missing after: " "$1" " "
+    echo 'More info with "runner -h" '
 fi
